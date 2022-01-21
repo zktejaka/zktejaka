@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @zktejaka</h1>
+<h1 align="center">Hi 👋, I'm Kat Tejada</h1>
 <h3 align="center">Computer Science Student at Temple University</h3>
 
 - I'm currently working on finishing up my bachelors degree in [Computer Science](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/computer-science-bs/#text)
