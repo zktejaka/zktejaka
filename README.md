@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning [JavaScript](https://github.com/bintoca)
 
-- 💬 Ask me about [Introduction to operating Systems](https://github.com/zktejaka/CIS3207)
+- 💬 Ask me about [Introduction to Operating Systems](https://github.com/zktejaka/CIS3207)
 
 - 🎭 I am a Technical Director for a HS Theatre Company **Sound Design and Sound Technician as well**
 
