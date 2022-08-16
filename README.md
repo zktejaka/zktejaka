@@ -3,13 +3,11 @@
 
 - I'm currently working on finishing up my bachelors degree in [Computer Science](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/computer-science-bs/#text)
 
-- 📫 How to reach me **KatLovesSoup@schwifty.us**
+- 📧 How to reach me **KatLovesSoup@schwifty.us**
 
-- 🌱 I’m currently learning [JavaScript](https://github.com/bintoca)
+- 💾 I’m currently learning Tableau & SQL
 
-- 💬 Ask me about [Introduction to Operating Systems](https://github.com/zktejaka/CIS3207)
-
-- 🎭 I am a Technical Director for a HS Theatre Company **Sound Design and Sound Technician as well**
+- 🎭 In addition to my passion for data analytics, I am a Technical Director and Lead Sound Engineer for a HS Theatre Company
 
 - ⚡ Fun fact **I absolutely adore soup**
 
