@@ -3,7 +3,7 @@
 
 - I'm currently working on finishing up my bachelors degree in [Computer Science](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/computer-science-bs/#text)
 
-- 📧 How to reach me **KatLovesSoup@schwifty.us**
+- 📧 How to reach me **tejadaki@gmail.com**
 
 - 💾 I’m currently learning Tableau & SQL
 
