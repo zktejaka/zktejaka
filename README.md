@@ -5,7 +5,7 @@
 
 - 📧 How to reach me **tejadaki@gmail.com**
 
-- 💾 I’m currently learning Tableau & SQL
+- 💾 I’m currently learning Google Analytics and SQL
 
 - 🎭 In addition to my passion for data analytics, I am a Technical Director and Lead Sound Engineer for a HS Theatre Company
 
