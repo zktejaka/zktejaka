@@ -7,7 +7,7 @@
 
 - 💾 I’m currently learning Google Analytics and SQL
 
-- 🎭 In addition to my passion for data analytics, I am a Technical Director and Lead Sound Engineer for a HS Theatre Company
+- 🎭 In addition to my passion for data analytics, I am a Technical Director and Lead Sound Engineer for a Theatre Company
 
 - ⚡ Fun fact **I absolutely adore soup**
 
